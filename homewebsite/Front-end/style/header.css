@@ -1,0 +1,15 @@
+:root{
+    --header-height: 2rem;
+}
+
+
+header{
+    height: var(--header-height);
+    color: #222;
+}
+header > div{
+    height: var(--header-height);
+    width: 100%;
+    position: fixed;
+    background-color: #ccc;
+}

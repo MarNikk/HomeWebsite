@@ -1,0 +1,13 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: #222;
+    color: #ccc;
+}
+
+
+main{
+    height: 300vh;
+}
